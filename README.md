@@ -1,3 +1,2 @@
-# react-lk4uad
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-lk4uad)
+# React js higer order component example 
+# HOC Counter Example

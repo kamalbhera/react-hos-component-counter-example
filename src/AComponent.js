@@ -5,7 +5,7 @@ function A(props) {
   const { increment, count } = props;
   return (
     <div>
-      <button onClick={increment}>A {count} Click</button>
+      <button onClick={increment}>A Component {count} Click</button>
     </div>
   );
 }

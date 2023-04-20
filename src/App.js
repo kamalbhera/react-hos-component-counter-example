@@ -6,7 +6,7 @@ import BComponent from './BComponent';
 export default function App() {
   return (
     <div className='App'>
-      <h1>Hoc</h1>
+      <h1>HOC Component Example</h1> <br></br>
       <AComponent name="hii hoc child A" />
       <BComponent />
     </div>

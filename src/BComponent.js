@@ -6,7 +6,7 @@ function B(props) {
 
   return (
     <div>
-      <button onMouseOver={increment}>B {count} Hover</button>
+      <button onMouseOver={increment}>B Component {count} Hover</button>
     </div>
   );
 }
